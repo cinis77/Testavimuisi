@@ -10,9 +10,7 @@ namespace LabasPasauli
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Yes");
-            Console.WriteLine("Dar karta");
+            Console.WriteLine("Hello");
         }
     }
 }
