@@ -12,10 +12,14 @@ namespace LabasPasauli
         {
 
             Console.WriteLine("Hello World");
+
+            Console.WriteLine("Greetings from Zygimantas!");
+
             Console.WriteLine("Yes");
             Console.WriteLine("Dar karta");
 
             Console.WriteLine("Hello Mantai");
+
 
         }
     }
