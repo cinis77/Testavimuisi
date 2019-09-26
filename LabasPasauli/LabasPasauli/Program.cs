@@ -14,6 +14,8 @@ namespace LabasPasauli
             Console.WriteLine("Hello World");
 
 
+            Console.WriteLine("Cia buvo Mindaugas");
+
             Console.WriteLine("Sveiki, Edgaras");
 
             Console.WriteLine("Greetings from Zygimantas!");
@@ -22,7 +24,6 @@ namespace LabasPasauli
             Console.WriteLine("Dar karta");
 
             Console.WriteLine("Hello Mantai");
-
 
 
         }
