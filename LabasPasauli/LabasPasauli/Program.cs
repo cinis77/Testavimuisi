@@ -16,6 +16,10 @@ namespace LabasPasauli
 
             Console.WriteLine("Cia buvo Mindaugas");
 
+            Console.WriteLine("Sveiki, Edgaras");
+
+            Console.WriteLine("Greetings from Zygimantas!");
+
             Console.WriteLine("Yes");
             Console.WriteLine("Dar karta");
 
