@@ -11,6 +11,7 @@ namespace LabasPasauli
         private static void Main(string[] args)
         {
 
+            Console.WriteLine("Hello");
             Console.WriteLine("Hello World");
 
 
@@ -22,7 +23,6 @@ namespace LabasPasauli
 
             Console.WriteLine("Yes");
             Console.WriteLine("Dar karta");
-
             Console.WriteLine("Hello Mantai");
 
 
