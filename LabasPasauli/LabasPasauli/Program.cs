@@ -12,7 +12,7 @@ namespace LabasPasauli
         {
             Console.WriteLine("Hello World");
 
-            Console.WriteLine("Edgos");
+            Console.WriteLine("Sveiki, Edgaras");
         }
     }
 }
